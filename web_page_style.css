@@ -1,0 +1,53 @@
+h1{
+    position: absolute; top: 0px; left: 400px;
+    color: purple;
+}
+h3{
+    position: absolute; top: 40px; left: 418px;
+    color: purple;
+}
+
+p{
+    color: greenyellow;
+}
+
+#paragraphs{
+    width: 900px;
+    position: absolute; top: 120px; left: 210px;
+}
+
+body{
+    background-image: url(graphics/space.png);
+}
+
+body{
+    background-color: black;
+}
+
+p1, ul1{
+    color: aqua;
+}
+
+p2{
+    position: absolute; top: 410px; left: 500px;
+}
+
+p3{
+    position: absolute; top: 410px; left: 750px;
+}
+
+p4, ul2{
+    color: yellow;
+}
+
+p5, ul3{
+    color: red;
+}
+
+p6{
+    position: absolute; top: 810px; left: 500px;
+}
+
+p7{
+    position: absolute; top: 810px; left: 750px;
+}
